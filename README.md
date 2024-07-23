@@ -18,6 +18,22 @@ This program is using the bitcoin and requests modules to hunt for private keys 
 
 So in summary, it is generating random private keys and checking their balances on the blockchain via API to "hunt" for any that have coins associated with them.
 
-# How to Use
+# Features
+✈️ Multi-platform: Android ,IOS , Windows, macOS and Linux
 
-# 
+💻 Super Light Programme
+
+# Build and Use
+Android IOS Windows macOS Linux
+
+# Contact me
+
+[Telegrame](https://t.me/iamnotniko)
+
+# Thx for all
+
+That for all.If you want to view your stats of miner you can go to [solo.ckpool.org](https://solo.ckpool.org/)
+
+[D0nate with BTC:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth](bitcoin:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth?message=Donate)
+
+<img src="https://github.com/HugoXOX3/PythonMiner/blob/main/Image/Donate.jpeg" width="449" height=579>
