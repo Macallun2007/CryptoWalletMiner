@@ -1,4 +1,4 @@
-# Bitcoin_Wallet_Miner
+# CyptoWalletMiner
 
 This program is using the bitcoin and requests modules to hunt for private keys with non-zero balances on the blockchain. Here is how it works:
 
