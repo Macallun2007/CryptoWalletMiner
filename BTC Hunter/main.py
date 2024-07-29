@@ -34,7 +34,7 @@ def check_balance():
     response = requests.get("https://blockchain.info/balance", params={"active": address})
     response.raise_for_status()
     data = response.json()
-    final_balance=data[address]["final_balance"]
+    final_balance=float(data[address]["final_balance"])
     print("WIF Private Key:",wif_private_key)
     print("Public Key",public_key)
     print("Address :",address)
