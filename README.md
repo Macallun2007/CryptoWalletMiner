@@ -33,7 +33,3 @@ cd Bitcoin_Wallet_Miner
 python3 main.py
 
 ```
-
-# Contact me
-
-[Telegrame](https://t.me/iamnotniko)
