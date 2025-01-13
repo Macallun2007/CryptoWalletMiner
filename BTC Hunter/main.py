@@ -48,7 +48,7 @@ def check_balance():
         count_found()
         with open('FoundAddress.txt', 'a') as f:
             f.write("\n",wif_private_key)
-            print("Donate to HCMLXOX:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth")
+            print("Donate to HCMLXOX:bc1qk5tpd68l4gfj6uzkq7u0l998dzvzyjpzhgpvnm")
     print("WIF Private Key:",wif_private_key)
     print("Public Key",public_key)
     print("Address :",address)
